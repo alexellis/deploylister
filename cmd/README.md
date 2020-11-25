@@ -1,6 +1,0 @@
-## Usage
-
-```bash
-./deploylister run
-```
-
